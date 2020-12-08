@@ -35,16 +35,17 @@ Following demos on max mesh compares the convergence speed of point-to-point, po
 
 
 ![Point-to-Point on Max](images/demos/max_demo_point.gif)
-
+### Point-to-Point on Max
 ![Point-to-Plane on Max](images/demos/max_demo_plane.gif)
-
+### Point-to-Plane on Max
 ![Symmetic objective on Max](images/demos/max_demo_sym.gif)
-
+### Symmetic objective on Max
 
 Furthermore, in practice, the method with symmetric objective is more reliable in terms of convergence to a reasonably correct alignment. An example of this is provided below on bun000 and bun090 meshes:
 
-![Point-to-Point on Max](images/demos/bun-demo-point.gif)
-
-![Point-to-Plane on Max](images/demos/bun-demo-plane.gif)
-
-![Symmetic objective on Max](images/demos/bun-demo-sym.gif)
+![Point-to-Point on bunny](images/demos/bun-demo-point.gif)
+### Point-to-Point on bunny
+![Point-to-Plane on bunny](images/demos/bun-demo-plane.gif)
+### Point-to-Plane on bunny
+![Symmetic objective on bunny](images/demos/bun-demo-sym.gif)
+### Symmetic objective on bunny
